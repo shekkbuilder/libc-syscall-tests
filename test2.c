@@ -1,3 +1,3 @@
-#include <stdio.h>
+#include <unistd.h>
 main ()
-{printf ("\nHello\n"); }
+{write (1,"\nHello\n",7); }

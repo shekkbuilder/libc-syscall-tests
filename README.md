@@ -1,5 +1,5 @@
 # libc-syscall-tests
-libc coded vs syscall coded binary in reversing
+libc coded vs syscall coded binary in verse-reversing
 tested in 
 ```
 $ sw_vers
